@@ -28,3 +28,5 @@ music.set_tempo(bpm=113)
 while True:
     if microbit.button_a.is_pressed():
         music.play(notes)
+        
+#press button a to play
