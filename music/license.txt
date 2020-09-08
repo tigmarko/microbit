@@ -1,0 +1,8 @@
+rickroll.py:
+a microbit readable version of the song 'Never Gonna Give You Up'(Rick Astley, 1987, under the label 'RCA').
+this version is based on a simplified piano part for the song uploaded to youtube (https://www.youtube.com/watch?v=HO9Bdlg1364) by the user 'coolmikeol'.
+I would appreciate partial credit for converting the song to a microbit friendly format, but this is not compulsory.
+Please refer to the description of the aforementioned video for further information.
+I know from experience that playing/transcribing a song by ear takes a lot of effort, 
+and for that reason i would suggest liking the video and/or subscribing to coolmikeol
+(i have no affiliation with coolmikeol).
